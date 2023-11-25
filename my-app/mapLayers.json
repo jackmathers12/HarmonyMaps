@@ -74,27 +74,6 @@
                 "fill": "#000000",
                 "fill-opacity": 0.30196078431372547
             }
-        },
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    174.060526,
-                    -39.0892848,
-                    0
-                ]
-            },
-            "properties": {
-                "name": "Center",
-                "styleUrl": "#icon-1899-0288D1-nodesc",
-                "styleHash": "48999a20",
-                "styleMapHash": {
-                    "normal": "#icon-1899-0288D1-nodesc-normal",
-                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
-                },
-                "icon": "https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png"
-            }
         }
     ]
 }
