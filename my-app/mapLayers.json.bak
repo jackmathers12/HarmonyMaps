@@ -1077,13 +1077,12 @@
             },
             "properties": {
                 "name": "Section 17",
-                "styleUrl": "#poly-0288D1-1501-0",
-                "styleHash": "200091c4",
+                "styleUrl": "#poly-0288D1-1501-0-nodesc",
+                "styleHash": "-49ceaacb",
                 "styleMapHash": {
-                    "normal": "#poly-0288D1-1501-0-normal",
-                    "highlight": "#poly-0288D1-1501-0-highlight"
+                    "normal": "#poly-0288D1-1501-0-nodesc-normal",
+                    "highlight": "#poly-0288D1-1501-0-nodesc-highlight"
                 },
-                "description": "810 m²",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1287,13 +1286,12 @@
             },
             "properties": {
                 "name": "Section 20",
-                "styleUrl": "#poly-0288D1-1501-0",
-                "styleHash": "200091c4",
+                "styleUrl": "#poly-0288D1-1501-0-nodesc",
+                "styleHash": "-49ceaacb",
                 "styleMapHash": {
-                    "normal": "#poly-0288D1-1501-0-normal",
-                    "highlight": "#poly-0288D1-1501-0-highlight"
+                    "normal": "#poly-0288D1-1501-0-nodesc-normal",
+                    "highlight": "#poly-0288D1-1501-0-nodesc-highlight"
                 },
-                "description": "1.1403 Ha<br>414 m²",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,

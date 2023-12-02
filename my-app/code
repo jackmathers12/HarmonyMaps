@@ -1,7 +1,7 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
   <head>
-    <title>Singapore District Map</title>
+    <title>Available Sections for Sale, Harmony Place, Frankley, New Plymouth, Taranaki, New Zealand</title>
     <meta name="viewport" content="initial-scale=1.0">
     <meta charset="utf-8">
     <style>
@@ -17,26 +17,28 @@
     </style>
   </head>
   <body>
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&callback=initMap"
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBt1UEJO-wc-C3cbklKE8DJF6xMlaYBj4E&callback=initMap"
     async defer></script>
-<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_API_KEY&libraries=geometry">
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBt1UEJO-wc-C3cbklKE8DJF6xMlaYBj4E&libraries=geometry">
 </script>
     <div id="map"></div>
     <script>
       function initMap() {
         var map = new google.maps.Map(document.getElementById('map'), {
-          zoom: SOME_INTEGER,
-          center: {lat: YOUR_LAT, lng: YOUR_LNG},
+          zoom: 18,
+          center: new google.maps.LatLng(-39.08936,174.06052),
+          disableDefaultUI: true,
+          mapTypeId: 'satellite',
         });
-        map.data.loadGeoJson("YOUR_LINK");
+        map.data.loadGeoJson("https://raw.githubusercontent.com/jackmathers12/HarmonyMaps/main/my-app/mapLayers.json");
         map.data.setStyle({
           fillColor: 'black',
           strokeWeight: 2
         });
         map.data.addListener('mouseover', function(event) {
-          map.data.overrideStyle(event.feature, {fillColor: 'ANOTHER_COLOUR'});
+          map.data.overrideStyle(event.feature, {fillColor: 'blue'});
           var infowindow = new google.maps.InfoWindow({
-            content: event.feature.getProperty('YOUR_PROPERTY')
+            content: event.feature.getProperty('')
           });
           infowindow.setPosition(event.latLng)
           infowindow.open(map);
