@@ -44,7 +44,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "588 m²",
-				"middle": "174.0614079, -39.088862",
+				"middle": "174.0613489, -39.088481",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -114,7 +114,8 @@
                     "normal": "#poly-0288D1-1501-0-normal",
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
-				"middle": "174.0613731, -39.0886496",
+				"description": "1165 m²<br>+ 183 m² ROW"
+				"middle": "174.0609949, -39.0886288",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -165,7 +166,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "584 m²",
-				"middle": "174.0610271, -39.0888953",
+				"middle": "174.0613731, -39.0886496",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -246,7 +247,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "918 m²",
-				"middle": "174.0614014, -39.0892358",
+				"middle": "174.0614079, -39.088862",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -302,7 +303,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "975 m²",
-				"middle": "174.0613906, -39.0894564",
+				"middle": "174.0610271, -39.0888953",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -368,7 +369,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "811 m²",
-				"middle": "174.0610098, -39.0893607",
+				"middle": "174.0614014, -39.0892358",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -419,7 +420,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "587 m²",
-				"middle": "174.0609816, -39.0895501",
+				"middle": "174.0613906, -39.0894564",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -526,7 +527,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "590 m²",
-				"middle": "174.0609829, -39.0897677",
+				"middle": "174.0610098, -39.0893607",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -592,7 +593,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "550 m²",
-				"middle": "174.0606624, -39.089649",
+				"middle": "174.0609816, -39.0895501",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -668,7 +669,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "558 m²<br>+ 325 m² ROW",
-				"middle": "174.0606436, -39.0898738",
+				"middle": "174.0609829, -39.0897677",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -749,7 +750,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "805 m²",
-				"middle": "174.0602547, -39.0899561",
+				"middle": "174.0606624, -39.089649",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -805,7 +806,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "711 m²",
-				"middle": "174.0602306, -39.0896979",
+				"middle": "174.0606436, -39.0898738",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -866,7 +867,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "945 m²<br>+ 109 m²",
-				"middle": "174.0598846, -39.0898437",
+				"middle": "174.0602547, -39.0899561",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -947,7 +948,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "900 m²",
-				"middle": "174.0598819, 39.0901018",
+				"middle": "174.0602306, -39.0896979",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1023,7 +1024,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "970 m²",
-				"middle": "174.0594875, -39.0901908",
+				"middle": "174.0598846, -39.0898437",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1099,7 +1100,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "810 m²",
-				"middle": "174.0594795, -39.0899149",
+				"middle": "174.0598819, 39.0901018",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1165,7 +1166,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "1294 m²<br>+ 577 m² ROW",
-				"middle": "174.0613489, -39.088481",
+				"middle": "174.0594875, -39.0901908",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1216,7 +1217,7 @@
                     "highlight": "#poly-0288D1-1501-0-highlight"
                 },
                 "description": "995 m²",
-				"middle": "174.0613489, -39.088481",
+				"middle": "174.0594795, -39.0899149",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
