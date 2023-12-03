@@ -1028,13 +1028,13 @@
                             0
                         ],
                         [
-                            174.0597143,
-                            -39.0903247,
+                            174.0597009,
+                            -39.0902831,
                             0
                         ],
                         [
-                            174.0600697,
-                            -39.090205,
+                            174.0600643,
+                            -39.0901696,
                             0
                         ],
                         [
@@ -1077,12 +1077,13 @@
             },
             "properties": {
                 "name": "Section 17",
-                "styleUrl": "#poly-0288D1-1501-0-nodesc",
-                "styleHash": "-49ceaacb",
+                "styleUrl": "#poly-0288D1-1501-0",
+                "styleHash": "200091c4",
                 "styleMapHash": {
-                    "normal": "#poly-0288D1-1501-0-nodesc-normal",
-                    "highlight": "#poly-0288D1-1501-0-nodesc-highlight"
+                    "normal": "#poly-0288D1-1501-0-normal",
+                    "highlight": "#poly-0288D1-1501-0-highlight"
                 },
+                "description": "810 m²",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
@@ -1286,12 +1287,13 @@
             },
             "properties": {
                 "name": "Section 20",
-                "styleUrl": "#poly-0288D1-1501-0-nodesc",
-                "styleHash": "-49ceaacb",
+                "styleUrl": "#poly-0288D1-1501-0",
+                "styleHash": "200091c4",
                 "styleMapHash": {
-                    "normal": "#poly-0288D1-1501-0-nodesc-normal",
-                    "highlight": "#poly-0288D1-1501-0-nodesc-highlight"
+                    "normal": "#poly-0288D1-1501-0-normal",
+                    "highlight": "#poly-0288D1-1501-0-highlight"
                 },
+                "description": "1.1403 Ha<br>414 m²",
                 "stroke": "#0288d1",
                 "stroke-opacity": 1,
                 "stroke-width": 1.501,
